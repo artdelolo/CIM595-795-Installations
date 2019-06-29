@@ -1,9 +1,9 @@
 # REFLECTION II | ARTECHOUSE
 
-Visiting the Lowe Art Museum with Jodi as a guide was a great experience. Being able to hear firsthand from an educational curator the parts of the museum where they saw opportunities for interactions was eye opening. It’s always one thing to go into a gallery with the perspective of the designer and see where the room for improvement is, but being able to see the spaces of opportunity and need really did help.
+Artechouse has to have been my gallery that we visited during out trips. While it felt small and gimmicky from the perspective of their location. I felt that it was the one gallery where the interactive art worked best, and I think its because the people that were developing the interactives were the artists themselves.
 
-Within the Lowe itself I found a space that was moderately engaging at best. The gallery spaces themselves were beautiful and well curated, but I found that the collections that aren’t on display were most interesting.
+The installations in the gallery felt the most natural of them all, even though they were all digital, but all of them properly thought out and installed in a space to best fit their needs. I for the most part don’t enjoy experiences where you need to use your phone or tablet the entire time to experience it, but I didn’t find myself troubled with the notebook AR in the back gallery at all.
 
-I think what I found most interesting about visiting the Lowe was trying to find the balance of the classic museum experience with what we are seeing as the emerging technologies of museums. While there are so many things that we can do with technology in museums, who is to say how long that will actually last? Museums as we know them have existed for centuries, and while new technologies can be introduced, the basis of a museum must remain. I found this to be a good experience to have this conversation of what a museum is. 
+What I do hope is that with the space being permanent now, this space can see much growth and change as new installations come and go. The gallery looks like it will give a great space for digital interactions while still having the traditional feel of a museum or gallery. 
 
 ![s](https://github.com/artdelolo/CIM595-795-Installations/blob/master/HW/Reflections%20II/art.jpg)
