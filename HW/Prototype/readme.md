@@ -1,6 +1,8 @@
 # SHAPES OF THE WORLD PROTOTYPE
 
 
+![s](https://github.com/artdelolo/CIM595-795-Installations/blob/master/HW/Prototype/proto-8.png)
+
 ![s](https://github.com/artdelolo/CIM595-795-Installations/blob/master/HW/Prototype/proto-6.png)
 
 ![s](https://github.com/artdelolo/CIM595-795-Installations/blob/master/HW/Prototype/proto-7.png)
