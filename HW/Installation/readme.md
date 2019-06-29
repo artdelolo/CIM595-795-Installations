@@ -10,3 +10,5 @@ This project aims to weave threads through the Lowe’s vast collection of 5,000
 ![s](https://github.com/artdelolo/CIM595-795-Installations/blob/master/HW/Installation/instal-2.gif)
 
 ![s](https://github.com/artdelolo/CIM595-795-Installations/blob/master/HW/Installation/instal-3.gif)
+
+![s](https://github.com/artdelolo/CIM595-795-Installations/blob/master/HW/Installation/instal-4.gif)
